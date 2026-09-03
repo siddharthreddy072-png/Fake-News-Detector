@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Create Fake News Detector"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/fake-news-detector.git
+git push -u origin main
